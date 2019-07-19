@@ -1,0 +1,23 @@
+body{
+  background-color: #DAD7FF
+}
+h1{
+  font-family: 'Lora', serif;
+  font-size: 50px;
+  text-align: center;
+}
+h3{
+  font-family: 'Poiret One', cursive;
+  font-size: 25px
+}
+p{
+  font-family: 'Dancing Script', cursive;
+  font-size: 90px
+}
+li{
+  font-family: 'Amatic SC', cursive;
+  font-size: 20px;
+}
+img{
+  image-align: center;
+}
